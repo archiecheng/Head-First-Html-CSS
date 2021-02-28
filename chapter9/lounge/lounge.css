@@ -1,0 +1,40 @@
+body{
+
+  font-size: small;
+  font-family: Verdana, Helvetica, Arial, sans-serif;
+  line-height: 1.6em;
+}
+
+
+
+h1,h2{
+        color: #007e7e;
+}
+
+     
+h1{
+        font-size: 150%;
+  }
+
+h2{
+        font-size: 130%;
+}
+
+#guarantee{
+  line-height: 1.9em;
+  font-style: italic;/*//字体样式*/
+  font-family: Georgia, "Times New Roman", Times,serif;
+  color: #444444;/*//字体颜色*/
+  border-color: white;/*//边框颜色*/
+  border-width: 1px;/*//边框宽度*/
+  border-style: dashed;/*//边框样式*/
+  background-color: #a7cece;/*//背景颜色*/
+  padding: 25px;/*//增加内边距上下左右*/
+  padding-left: 80px;/*//只在左边增加内边距*/
+  margin:30px;/*//增加外边距上下左右*/
+  margin-right: 250px;/*//只在右边增加外边距*/
+  background-image: url(images/background.gif);/*//图片*/
+  background-repeat: no-repeat;/*//图片不重复*/
+  background-position: top left;/*//图片位置在左上方*/
+}
+     
